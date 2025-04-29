@@ -2,7 +2,7 @@
 <h3 align="center">Programador en formación | Creativo técnico | Amante del conocimiento útil</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="300" />
+
 </p>
 
 ---
@@ -31,7 +31,7 @@ Hola, soy <strong>Jean Paul</strong> 👋
 - ⚙️ Automatizando <strong> tareas para hacer la vida más fácil</strong>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="280" />
+
 </p>
 
 ---
@@ -48,5 +48,5 @@ Hola, soy <strong>Jean Paul</strong> 👋
 - 🔗 GitHub: [Jean611oro]
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="250" />
+ 
 </p>
