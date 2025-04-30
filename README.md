@@ -44,8 +44,7 @@ Hola, soy <strong>Jean Paul</strong> 👋
 
 ### 📬 Conectemos
 
-- 📱 WhatsApp: 3104537642 
-- 🔗 GitHub: [Jean611oro]
+- 🔗 GitHub: [Jean611oro]https://github.com/Jean611oro
 
 <p align="center">
  
